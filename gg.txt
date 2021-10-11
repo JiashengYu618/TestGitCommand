@@ -1,1 +1,2 @@
 good game
+直接在git上修改
